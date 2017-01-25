@@ -1,6 +1,7 @@
 # README
 
-**NOTE: Please see [discussion-find-asksci.md](http://github.com/bryanfry/find-asksci/blob/master/discussion-find-asksci.md) for a more in-depth discussion of the goals, design, and implementation of this project  Thanks!**
+###NOTE: Please see [discussion-find-asksci.md](http://github.com/bryanfry/find-asksci/blob/master/discussion-find-asksci.md) for a more in-depth discussion of the goals, design, and implementation of this project  Thanks!
+
 ____________
 
 **[find-asksci](http://34.196.238.24)** is a web application that aims to locate the redditor in /r/askscience who is best-qualified to answer a user's technical question.  I developed this application as my final project at the Metis Data Science Bootcamp in NYC.  The project involved web scraping, natural language processing (NLP), dimensionality reduction, machine learning, visualization, and Flask app development.
