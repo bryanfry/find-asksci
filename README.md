@@ -4,7 +4,7 @@
 
 ____________
 
-**[find-asksci](http://34.196.238.24)** is a web application that aims to locate the redditor in /r/askscience who is best-qualified to answer a user's technical question.  I developed this application as my final project at the Metis Data Science Bootcamp in NYC.  The project involved web scraping, natural language processing (NLP), dimensionality reduction, machine learning, visualization, and Flask app development.
+**[find-asksci](http://www.bryanfry.net/find_asksci.html)** is a web application that aims to locate the redditor in /r/askscience who is best-qualified to answer a user's technical question.  I developed this application as my final project at the Metis Data Science Bootcamp in NYC.  The project involved web scraping, natural language processing (NLP), dimensionality reduction, machine learning, visualization, and Flask app development.
 
 As of 1/11/17, the app is hosted on an Amazon Web Services EC2 instance.  Please click [here](http://34.196.238.24) to give it a try!   
 
